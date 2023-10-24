@@ -33,11 +33,15 @@ or using yarn:
 yarn add @canonical/maas-react-components
 ```
 
+#### Styles
+
 Add styles import to your app:
 
 ```css
 @import "@canonical/maas-react-components/dist/style.css";
 ```
+
+Note: It contains only styles specific to maas-react-component. Ensure you also import the base styles from the Vanilla Framework.
 
 ## Development with `maas-react-components`
 
